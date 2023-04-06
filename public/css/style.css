@@ -1,0 +1,21 @@
+
+.nav-item {
+  /* background-color: rgb(212, 212, 212); */
+  margin: 10px;
+  border-radius: 8px;
+  border: 1px solid gray;
+}
+.nav-link{
+  color: white;
+
+}
+.nav-link:hover{
+  color: black;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+.aboutme {
+  height: 100vh;
+}
