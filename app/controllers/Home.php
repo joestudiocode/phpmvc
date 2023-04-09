@@ -1,6 +1,7 @@
 <?php
 
-class Home extends Controller {
+class Home extends Controller
+{
   public function index()
   {
     $data['judul'] = 'Home';
@@ -9,6 +10,5 @@ class Home extends Controller {
     $this->view('templates/sidebar');
     $this->view('home/index', $data);
     $this->view('templates/footer');
-
   }
 }

@@ -1,5 +1,5 @@
 <div class="row" style="height: 100vh;">
-  <div class="col-md-3 bg-dark text-light pt-4">
+  <div class="col-md-2 bg-dark text-light pt-4">
     <div class="sidebar">
       <div class="text-center icon1"><img src="<?= BASEURL; ?>/img/icon1.png" alt=""></div>
       <h2 class="text-center">Bukita Admin</h2>
